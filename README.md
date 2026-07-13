@@ -9,3 +9,4 @@ This project is a personal portfolio website developed using HTML and CSS.
 - Projects
 - Education
 - Contact Information
+- Portfolio updated
