@@ -47,3 +47,36 @@ h1{
 .resume-btn:hover {
     background: #0056b3;
 }
+progress{
+    width:300px;
+    height:18px;
+    margin-bottom:15px;
+}
+.dark{
+background:#111;
+color:white;
+}
+
+.dark h1,
+.dark h2,
+.dark h3{
+color:#00ffff;
+}
+
+.dark a{
+color:#00ffff;
+}
+
+button{
+padding:10px 20px;
+border:none;
+border-radius:8px;
+background:#333;
+color:white;
+cursor:pointer;
+margin:20px 0;
+}
+
+button:hover{
+background:#555;
+}
